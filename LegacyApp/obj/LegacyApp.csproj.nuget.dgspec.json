@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/LegacyApp.csproj": {}
+    "C:\\Users\\stsec\\RiderProjects\\apbd_4\\LegacyApp\\LegacyApp.csproj": {}
   },
   "projects": {
-    "/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/LegacyApp.csproj": {
+    "C:\\Users\\stsec\\RiderProjects\\apbd_4\\LegacyApp\\LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/LegacyApp.csproj",
+        "projectUniqueName": "C:\\Users\\stsec\\RiderProjects\\apbd_4\\LegacyApp\\LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/LegacyApp.csproj",
-        "packagesPath": "/Users/pgago/.nuget/packages/",
-        "outputPath": "/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/",
+        "projectPath": "C:\\Users\\stsec\\RiderProjects\\apbd_4\\LegacyApp\\LegacyApp.csproj",
+        "packagesPath": "C:\\Users\\stsec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stsec\\RiderProjects\\apbd_4\\LegacyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pgago/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\stsec\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\stsec\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
